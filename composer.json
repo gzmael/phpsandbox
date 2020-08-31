@@ -1,0 +1,10 @@
+{
+    "name": "jezmael/testecomposer",
+    "authors": [
+        {
+            "name": "Jezmael Basilio",
+            "email": "jezmaelbasilio@gmail.com"
+        }
+    ],
+    "require": {}
+}
